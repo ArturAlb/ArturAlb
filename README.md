@@ -32,3 +32,6 @@
 |IA|[One_Pizza_Problem](https://github.com/ArturAlb/IA-One_Pizza_Problem)|Experimental solution to the One Pizza Problem|
 |IA|[Glioma_Grading](https://github.com/ArturAlb/IA-Glioma_Grading)|Grading of Glioma based on data using supervised learning|
 |PI|[ARtifact](https://github.com/ArturAlb/PI-24-25)|AR app for Museu Nacional Soares dos Reis|
+
+### Advent of Code
+[Advent_2024](https://github.com/ArturAlb/Advent_of_code_24)
