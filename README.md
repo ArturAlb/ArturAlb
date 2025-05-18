@@ -8,10 +8,10 @@
 
 | UC   | Project   |Description   |
 |------|-----------|--------------|
-|AC|[WNBA](https://github.com/Ruben38Esteves/Project-AC-Basketball)|WNBA Playoff Predictions|
+|AC|[WNBA](https://github.com/ArturAlb/AC-WNBA)|WNBA Playoff Predictions|
 |SDLE|[Shopping List](https://github.com/ArturAlb/SDLE-24-25)|Distributed Shopping List application|
-|SGI|[ThreeJs](https://github.com/Ruben38Esteves/Project-SGI-ThreeJS)|Three Projects developed in ThreeJS|
-|PRI|[HackerNews](https://github.com/Ruben38Esteves/Project-PRI-HackerNews)|A search engine developed for the website TheHackerNews|
+|SGI|[ThreeJs](https://github.com/ArturAlb/SGI)|Three Projects developed in ThreeJS|
+|PRI|[HackerNews](https://github.com/ArturAlb/PRI-Search_Engine)|A search engine developed for the website TheHackerNews|
 
 ### From my Bachelor's 🌱
 
