@@ -1,6 +1,6 @@
 # Hello, welcome to my GitHub ✨
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturAlb&theme=tokyonight&exclude_repo=lcom-22-23,Project-LCOM-Cuphead,Project-Comp-JmmCompiler,Project-AC-Basketball&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturAlb&theme=tokyonight&exclude_repo=lcom-22-23,Compiladores-24-25,AC-WNBA&include_all_commits=true)
 
 ## These are the projects I developed in University 🧑‍🎓
 
